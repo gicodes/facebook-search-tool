@@ -11,3 +11,32 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.just-center {
+  display: flex;
+  justify-content: center;
+}
+
+.mt-1 {
+  margin-top: 2%;
+}
+
+.p-1 {
+  padding: 1%;
+}
+
+.fullWidth {
+  width: 100%;
+}
+
+.error {
+  color: goldenrod;
+}
+
+.success {
+  color: forestgreen;
+}
+
+.primary {
+  color: #1877F2;
+}
